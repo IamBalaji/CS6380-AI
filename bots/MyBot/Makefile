@@ -6,8 +6,8 @@
 ROOTDIR  = ../../
 include $(ROOTDIR)Makefile.inc
 
-BOT	= MyBot
-OUT = bot.so
+BOT	= Gradatim_Ferociter
+OUT = Gradatim_Ferociter.so
 
 OBJS = $(BOT).o
 
